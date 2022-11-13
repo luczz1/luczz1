@@ -20,6 +20,6 @@
   </div>
 
 <div><br>
-  <a href="https://www.linkedin.com/in/lucaslcs1/" target="_blank"><img align="left" height="30" width="30" src="https://img.icons8.com/color/512/linkedin-circled.png"></a> 
-   <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img align="left" height="30" width="30" src="https://img.icons8.com/color/512/instagram-new--v1.png"></a> 
+  <a href="https://www.linkedin.com/in/lucaslcs1/" target="_blank"><img align="right" height="30" width="30" src="https://img.icons8.com/color/512/linkedin-circled.png"></a> 
+   <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img align="right" height="30" width="30" src="https://img.icons8.com/color/512/instagram-new--v1.png"></a> 
 </div>
