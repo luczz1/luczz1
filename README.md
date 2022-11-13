@@ -5,6 +5,6 @@
   Faço faculdade de Análise e Desenvolvimento de Sistemas e estágio de programação.
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luczz1&theme=dark&layout=compact)](https://github.com/luczz1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luczz1&theme=github_dark&layout=compact)](https://github.com/luczz1/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/lucaslcs1/"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
