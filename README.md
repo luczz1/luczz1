@@ -7,4 +7,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luczz1&theme=github_dark&layout=compact)](https://github.com/luczz1/github-readme-stats)
 
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
 <a href="https://www.linkedin.com/in/lucaslcs1/"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
