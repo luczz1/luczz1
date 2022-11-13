@@ -11,8 +11,8 @@
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/lucaslcs1/"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
-  
-  <div align="right">
+  <br>
+  <div align="left">
     <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
