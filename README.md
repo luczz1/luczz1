@@ -10,7 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luczz1&theme=github_dark&layout=compact)](https://github.com/luczz1/github-readme-stats)
 
 <div><br>
-  <a href="https://www.linkedin.com/in/lucaslcs1/"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
+  <a href="https://www.linkedin.com/in/lucaslcs1/" target="_blank"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
+    <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img align="right" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png"></a> 
 </div>
 <div align="left"><br><br>
     <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
