@@ -7,7 +7,7 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Javascript, Typescript com foco no framework Angular.</strong>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luczz1)](https://github.com/luczz1/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luczz1)]
 
 </p>
 
