@@ -1,4 +1,6 @@
 <div style="display: inline_block"><br>
+<a href="https://www.linkedin.com/in/lucaslcs1/"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
+  
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
@@ -19,4 +21,3 @@
 
 
 
-<a href="https://www.linkedin.com/in/lucaslcs1/"><img align="left" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a> 
