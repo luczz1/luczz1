@@ -25,5 +25,6 @@
    <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img align="right" height="30" width="30" src="https://img.icons8.com/color/512/instagram-new--v1.png"></a> 
 </div>
 
-
+<div><br>
 <small style="color: #d1d1d1;">Obs: alguns projetos tem wesleycabral como contribuidor, mas sou eu no PC do meu irmão que está conectado ao github dele. </small>
+</div>
