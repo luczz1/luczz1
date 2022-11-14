@@ -26,5 +26,5 @@
 </div>
 
 <div><br>
-<small style="color: #d1d1d1;">Obs: alguns projetos tem wesleycabral como contribuidor, mas sou eu no PC do meu irmão que está conectado ao github dele. </small>
+<small style="color: black;">Obs: alguns projetos tem wesleycabral como contribuidor, mas sou eu no PC do meu irmão que está conectado ao github dele. </small>
 </div>
