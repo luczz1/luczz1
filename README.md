@@ -19,8 +19,8 @@
     <img width="4%" title="Ionic"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
     <img width="4%" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <div align="right">
-    <a href="https://www.linkedin.com/in/lucaslcs1/" target="_blank"><img align="right" height="30" width="30" src="https://img.icons8.com/color/512/linkedin-circled.png"> 
-   <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img align="right" height="30" width="30" src="https://img.icons8.com/color/512/instagram-new--v1.png">
+    <a href="https://www.linkedin.com/in/lucaslcs1/" target="_blank"><img height="30" width="30" src="https://img.icons8.com/color/512/linkedin-circled.png"> 
+   <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img height="30" width="30" src="https://img.icons8.com/color/512/instagram-new--v1.png">
   </div>
   </div>
 
