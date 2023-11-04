@@ -17,10 +17,6 @@
     <img width="4%" style="padding-right: .6em;"  title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
   
-  <div><br><br>
-    <a href="https://www.linkedin.com/in/lucaslcs1/" target="_blank"><img height="30" width="30" src="https://img.icons8.com/color/512/linkedin-circled.png"> 
-    <a href="https://www.instagram.com/lucaslcs0/" target="_blank"><img height="30" width="30" src="https://img.icons8.com/color/512/instagram-new--v1.png">  
-</div>
 
 
   
