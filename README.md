@@ -4,7 +4,6 @@
 
 <p align="left"> 
   Atualmente sou um <strong>desenvolvedor frontend</strong> com foco em<br> aprimorar minhas habilidades e evoluir na programação.<br>
-  Faço faculdade de Análise e Desenvolvimento de Sistemas e trabalho com programação.
 </p>
 
 <div align="left"><br><br>
